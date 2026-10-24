@@ -1,0 +1,86 @@
+GEZGIN COMPRESS - END USER LICENSE AGREEMENT (FREEWARE)
+
+Copyright (c) 2026 Volkan Uzuntepe. All rights reserved.
+
+This End User License Agreement ("Agreement") is between you and Volkan
+Uzuntepe ("the Author") and covers the Gezgin Compress software, including
+its installer, documentation and updates ("the Software"). By installing,
+copying or using the Software you accept this Agreement. If you do not
+accept it, do not install or use the Software.
+
+1. LICENCE GRANT
+The Software is licensed, not sold. The Author grants you a free,
+non-exclusive, non-transferable, worldwide licence to install and use the
+Software on any number of computers, for personal and commercial purposes,
+without charge.
+
+2. REDISTRIBUTION
+You may copy and distribute the original, unmodified installer of the
+Software, provided that:
+  a) you charge no fee for the Software itself;
+  b) the installer, including this Agreement, is not altered in any way;
+  c) the Software is not bundled with other software, wrapped in another
+     installer or presented as anyone else's product.
+Distributing the Software as part of a paid product or service requires the
+Author's prior written permission.
+
+3. RESTRICTIONS
+Except as expressly permitted in this Agreement, you may not:
+  a) modify, adapt, translate or create derivative works of the Software;
+  b) reverse engineer, decompile or disassemble the Software, except to the
+     extent that applicable law expressly permits it despite this
+     restriction;
+  c) sell, rent, lease or sublicense the Software;
+  d) remove or alter any copyright or other notices in the Software.
+
+4. THIRD-PARTY COMPONENTS
+The Software contains open-source components, each provided under its own
+licence. They are listed in THIRD_PARTY_NOTICES.md, installed with the
+Software. Nothing in this Agreement limits your rights under those licences
+for those components. RAR extraction uses UnRAR source code, which may not
+be used to re-create the RAR compression algorithm.
+
+5. OWNERSHIP
+The Software and all intellectual property rights in it remain with the
+Author. All rights not expressly granted in this Agreement are reserved.
+
+6. YOUR FILES AND PRIVACY
+The Software works only on the files you choose. It does not collect or
+transmit personal data. You are responsible for keeping backups of your
+files.
+
+7. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. Pre-release
+("alpha" or "beta") versions may contain errors that can cause data loss.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL
+DAMAGES, INCLUDING LOSS OF DATA, PROFITS OR BUSINESS, ARISING OUT OF THE USE
+OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES. Nothing in this Agreement excludes or limits liability that
+cannot be excluded or limited under applicable law.
+
+9. TERMINATION
+This licence ends automatically if you breach this Agreement. You must then
+stop using the Software and delete all copies of it.
+
+10. FUTURE VERSIONS
+The Author may release future versions of the Software under different
+terms, including an open-source licence. Each version is governed by the
+licence that accompanies it.
+
+11. GOVERNING LAW
+This Agreement is governed by the laws of the Republic of Turkiye. The
+courts of the Republic of Turkiye have jurisdiction over any dispute. This
+does not affect any mandatory rights you have as a consumer under the law
+of your country of residence.
+
+12. ENTIRE AGREEMENT
+This Agreement is the entire agreement between you and the Author regarding
+the Software. If any provision is held unenforceable, the remaining
+provisions stay in effect.
+
+Questions: https://github.com/volkanuzuntepe/gezgin-compress/issues
